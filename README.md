@@ -56,7 +56,7 @@ Complaint Management System/
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/your-username/complaint-management-system.git
+git clone https://github.com/abdullah-khan41/Complaint-Management-System2.git
 2. Install Backend Dependencies
 cd backend
 npm install
