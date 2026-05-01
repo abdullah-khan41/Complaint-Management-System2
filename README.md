@@ -69,14 +69,11 @@ DATABASE_URL=your_postgresql_connection_string
 node index.js
 
 Server will run on:
-
 http://localhost:3000
+
 🌐 Frontend Setup
-
 Simply open:
-
 frontend/index.html
-
 OR use VS Code Live Server extension.
 
 🔗 API Endpoints
@@ -84,19 +81,18 @@ Get all complaints
 GET /complaints
 Add new complaint
 POST /complaints
+
 🌍 Deployment
 Frontend → Netlify / Vercel
 Backend → Railway / Render
 Database → PostgreSQL (Neon / Supabase)
+
 🔐 Environment Variables
 DATABASE_URL = PostgreSQL connection string
-📸 Screenshots
-
-Add screenshots here for better presentation
 
 👨‍💻 Author
 Muhammad Abdullah
 Full Stack Developer (Learning Phase 🚀)
-⭐ Support
 
+⭐ Support
 If you like this project, please give it a ⭐ on GitHub.
